@@ -13,7 +13,7 @@ packages:
 
 # bootloader
 packages-aarch64:
-  - grub2-efi-aa64 efibootmgr shim
+  - grub2-efi-aa64 efibootmgr shim bcm283x-firmware
 packages-armhfp:
   - extlinux-bootloader
 packages-ppc64le:
