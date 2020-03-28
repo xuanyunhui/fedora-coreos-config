@@ -1,7 +1,7 @@
 ref: fedora/${basearch}/coreos/testing-devel
 include: manifests/fedora-coreos.yaml
 
-releasever: "32"
+releasever: "31"
 
 rojig:
   license: MIT
